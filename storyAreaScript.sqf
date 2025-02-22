@@ -1,6 +1,6 @@
 // Name: Anthony
 // Purpose: Alert players to ongoing story arcs during an operation.
-// Files: init.sqf, storyArea.sqf
+// Files: init.sqf, storyAreaScript.sqf
 
 displayText = {
     params ["_trigger","_text","_location", ["_textSize", 1], ["_duration", 5]];
